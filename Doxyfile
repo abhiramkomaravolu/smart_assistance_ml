@@ -1,0 +1,8 @@
+PROJECT_NAME           = "ASE Project"
+INPUT                  = G:/Windsor MAC/SEM 1/ASE/ASE_project
+RECURSIVE              = YES
+FILE_PATTERNS          = *.js
+OUTPUT_DIRECTORY       = G:/Windsor MAC/SEM 1/ASE/ASE_project/docs
+GENERATE_HTML          = YES
+GENERATE_JS            = YES
+GENERATE_HTML          = YES
